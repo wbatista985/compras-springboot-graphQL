@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="739cb471-76f3-4574-8d8a-7cb3a153f9ed" name="Default Changelist" comment="add insert sql" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="GraphQL File" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JScI7OkaAq4NcFmDebgGIueCuW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/wagner/Documentos/developer/WorkSpace-Spring_GraphQL/compras/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.haulmont.jpb.viewMode"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/compras/src/main/resources" />
+      <recent name="$PROJECT_DIR$/compras/src/test/java/resources" />
+      <recent name="$PROJECT_DIR$/compras/src/main/resources/graphql" />
+      <recent name="$PROJECT_DIR$/compras/banco" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/compras/src/main/resources/graphql" />
+      <recent name="$PROJECT_DIR$/compras/src/main/java/com/udemy/compras" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.udemy.compras.graphql" />
+      <recent name="com.udemy.compras.service" />
+      <recent name="com.udemy.compras.repository" />
+      <recent name="com.udemy.compras.Service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComprasApplication">
+    <configuration name="ComprasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="spring.profiles.active" value="dev" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.udemy.compras.ComprasApplication" />
+      <module name="compras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.compras.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.compras.ComprasApplication" />
+      <module name="compras" />
+      <option name="PROGRAM_PARAMETERS" value="clean install" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteGraphQLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.compras.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.compras" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.compras.ClienteGraphQLTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteGraphQLTest.testClientes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.compras.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.compras" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.compras.ClienteGraphQLTest" />
+      <option name="METHOD_NAME" value="testClientes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ComprasApplication" />
+      <item itemvalue="JUnit.ClienteGraphQLTest" />
+      <item itemvalue="JUnit.ClienteGraphQLTest.testClientes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComprasApplication" />
+        <item itemvalue="JUnit.ClienteGraphQLTest.testClientes" />
+        <item itemvalue="JUnit.ClienteGraphQLTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="739cb471-76f3-4574-8d8a-7cb3a153f9ed" name="Default Changelist" comment="" />
+      <created>1672074841752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672074841752</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ajuste application properties">
+      <created>1673574818496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673574818496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add insert sql">
+      <created>1673575195007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673575195007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajuste application properties" />
+    <MESSAGE value="add insert sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="add insert sql" />
+  </component>
+</project>
